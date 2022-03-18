@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>003771.jpg</filename><size><width>1024</width><height>547</height><depth>3</depth></size><object><name>without_mask</name><bndbox><xmin>444</xmin><ymin>238</ymin><xmax>544</xmax><ymax>368</ymax></bndbox></object></annotation>

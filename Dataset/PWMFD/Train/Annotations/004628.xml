@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>004628.jpg</filename>
+	<size>
+		<width>1942</width>
+		<height>1031</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>without_mask</name>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymin>329</ymin>
+			<xmax>806</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<bndbox>
+			<xmin>1261</xmin>
+			<ymin>194</ymin>
+			<xmax>1493</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>148</ymin>
+			<xmax>574</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without_mask</name>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>336</ymin>
+			<xmax>84</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
