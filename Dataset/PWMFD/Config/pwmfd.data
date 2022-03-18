@@ -1,0 +1,4 @@
+classes=3
+train=/Users/navneet/My Space/Workspace/University Of Hamburg/Computer Vision/Computer Vision 2/Project/Dataset/PWMFD/Train/Pictures/train.txt
+valid=/Users/navneet/My Space/Workspace/University Of Hamburg/Computer Vision/Computer Vision 2/Project/Dataset/PWMFD/Val/Pictures/val.txt
+names=/Users/navneet/My Space/Workspace/University Of Hamburg/Computer Vision/Computer Vision 2/Project/Dataset/PWMFD/Config/pwmfd.names
