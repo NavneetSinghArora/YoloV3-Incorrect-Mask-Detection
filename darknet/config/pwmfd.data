@@ -1,0 +1,5 @@
+classes=3
+train=/export/scratch/navneet/yolo_v3_model/data/pwmfd/train.txt
+valid=/export/scratch/navneet/yolo_v3_model/data/pwmfd/val.txt
+names=/export/scratch/navneet/yolo_v3_model/config/pwmfd.name
+backup=/export/scratch/navneet/yolo_v3_model/backup
